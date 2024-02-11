@@ -3,4 +3,4 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ali-nadir-erdil-4b24a52b3/) 
+[![LinkedIn](https://www.linkedin.com/in/ali-nadir-erdil-4b24a52b3/) 
