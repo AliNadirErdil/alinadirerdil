@@ -1,5 +1,5 @@
 # 💫 About Me:
- ✔ My fullname is Ali Nadir ERDİL®<br>💻 I amComputer Engineering student.<br>📖 I’m currently improving my programming skills.<br>💬 Ask me about anything you want.<br>📩 My personal gmail address: <br>📫 You can reach me via LinkedIn: <br>
+ ✔ My fullname is Ali Nadir ERDİL®<br>💻 I amComputer Engineering student.<br>📖 I’m currently improving my programming skills.<br>💬 Ask me about anything you want.<br>📩 My personal gmail address:erdil.alinadir@gmail.com <br>📫 You can reach me via LinkedIn: <br>
 
 
 ## 🌐 Socials:
